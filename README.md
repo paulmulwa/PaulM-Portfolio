@@ -88,16 +88,16 @@ Hi! I'm **Paul Munyaka**, a passionate Full Stack Developer based in Nairobi, Ke
 
 2. ## 📬 Contact ##
 
-- **Email:** [paulmulwa101@gmail.com](mailto:paulmulwa101@gmail.com)  
-- **Phone:** +254 705 069 145  
-- **Location:** Nairobi, Kenya  
+- **Email:** 
+- **Phone:** 
+- **Location:* 
 
 3. ## **Socials:** ##
-- [GitHub](https://github.com/paulmunyaka101)  
-- [LinkedIn](https://linkedin.com/in/paulmunyaka101)  
-- [YouTube](https://youtube.com/@paulmunyaka101)  
-- [Twitter](https://twitter.com/paulmunyaka101)  
-- [Instagram](https://instagram.com/paulmunyaka101)  
+- [GitHub]
+- [LinkedIn]
+- [YouTube] 
+- [Twitter]
+- [Instagram]
 
 ---
 
