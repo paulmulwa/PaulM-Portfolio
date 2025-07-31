@@ -39,8 +39,22 @@ Hi! I'm **Paul Munyaka**, a passionate Full Stack Developer based in Nairobi, Ke
 
 ## 🖼️ Screenshots ##
 
-> _Add screenshots of your portfolio here for visual reference._
+## 🖼️ Screenshots
 
+### 🔹 Screenshot 1
+![Screenshot 1](images/s1.png)
+
+### 🔹 Screenshot 2
+![Screenshot 2](images/s2.png)
+
+### 🔹 Screenshot 3
+![Screenshot 3](images/s3.png)
+
+### 🔹 Screenshot 4
+![Screenshot 4](images/s4.png)
+
+### 🔹 Screenshot 5
+![Screenshot 5](images/s5.png)
 ---
 
 ## 📑 Sections ##
