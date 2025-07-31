@@ -3,13 +3,7 @@
 
 Welcome to my personal portfolio! This website showcases my skills, projects, education, and interests as a Full Stack Developer. Explore my work, learn about my background, and feel free to get in touch!
 
----
 
-## 🚀 Live Demo #
-
-[View the Portfolio Live](https://yourusername.github.io/portfolio-hackathon)
-
----
 
 ## 📂 Table of Contents #
 
