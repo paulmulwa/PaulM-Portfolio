@@ -53,7 +53,7 @@ Hi! I'm **Paul Munyaka**, a passionate Full Stack Developer based in Nairobi, Ke
 ### 🔹 Programming Languages
 ![Screenshot 4](images/s4.png)
 
-### 🔹 CAontact Section
+### 🔹 Contact Section
 ![Screenshot 5](images/s5.png)
 ---
 
