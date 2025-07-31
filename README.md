@@ -3,7 +3,8 @@
 
 Welcome to my personal portfolio! This website showcases my skills, projects, education, and interests as a Full Stack Developer. Explore my work, learn about my background, and feel free to get in touch!
 
-
+**Link**
+https://paulmulwa.github.io/PaulM-Portfolio/
 
 ## 📂 Table of Contents #
 
@@ -37,23 +38,22 @@ Hi! I'm **Paul Munyaka**, a passionate Full Stack Developer based in Nairobi, Ke
 
 ---
 
-## 🖼️ Screenshots ##
 
 ## 🖼️ Screenshots
 
-### 🔹 Screenshot 1
+### 🔹 Home Page 
 ![Screenshot 1](images/s1.png)
 
-### 🔹 Screenshot 2
+### 🔹 CV
 ![Screenshot 2](images/s2.png)
 
-### 🔹 Screenshot 3
+### 🔹 Technologies
 ![Screenshot 3](images/s3.png)
 
-### 🔹 Screenshot 4
+### 🔹 Programming Languages
 ![Screenshot 4](images/s4.png)
 
-### 🔹 Screenshot 5
+### 🔹 CAontact Section
 ![Screenshot 5](images/s5.png)
 ---
 
